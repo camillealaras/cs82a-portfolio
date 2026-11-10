@@ -1,1 +1,7 @@
-portfolio containing labs and a final project for an intro to data science class at Santa Monica College (CS 82A)
+# Camille Alaras - Data Science Portfolio
+
+Labs and final project from CS 82A: Introduction to Data Science
+at Santa Monica College (Fall 2026).
+
+## Contents
+- Module 2: Python foundations
